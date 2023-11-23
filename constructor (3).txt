@@ -1,0 +1,70 @@
+Constructor:-
+
+	*Class name and constructor name will be same	
+	*When we create an object for a class the default constructor will be executed 
+	automatically at the time itself
+	*It will not have any return type (void)
+	*It will support method overloading and does not support method overriding
+
+
+Types:-
+	Default constructor or Non- parameterized constructor
+	parameterized constructor
+
+
+Scanner:-
+	(Getting i/p from the user)
+	-->It is a class
+	-->Scanner class present in java.util.package
+	-->To get input from the user (or) Run-time
+Syntax:-
+	Scanner refname = new Scanner(System.in);
+ 	where:
+		Scanner = class
+		System.in -->To take input from user from console
+		System.out --> To print the console
+	Scanner Methods:- overall 39 methods
+	for string:
+		*next() : Accepts one value 
+			After the space if won't accept (eg) rathi priya
+			(Accepts rathi not priya)
+		*nextLine() : Accepts more than one value or sentence 
+			       After the space it will Accept
+		*nextInt() : It accepts a integer value like whole numbers
+		*nextFloat() : It accepts a decimal values
+		*next().charAt(0):
+			It accepts a single character
+
+
+
+
+
+
+Keyword:
+
+	this   --> current class reference  
+
+	variables, methods and contructor
+
+	Super  --> parent class reference
+
+	variables , methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
